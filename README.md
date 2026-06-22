@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Samarth H
 
-### 🚀 Python Developer |  | Full Stack Developer | 
+### 🚀 Python Developer | Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Python+Developer;Python+Full+Stack+Trainee;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Explorer;Building+Practical+Projects" />
 
@@ -20,30 +20,30 @@
 
 🚀 Passionate about building practical applications and continuously improving technical skills
 
-🌐 Interested in:
+### 🌐 Interested In
 
 - Full Stack Development
 - Frontend Development
 - Database Systems
 - Data Analytics & Visualization
 - Artificial Intelligence & Machine Learning
-- Generative AI 
+- Generative AI
 
-🎯 Aspiring Software Engineer | Full Stack Developer | AI Engineer | Data Analytics | 
+🎯 Aspiring Software Engineer | Full Stack Developer | AI Engineer | Data Analyst
 
 ---
 
 # 🛠️ Tech Stack
 
-## Programming Languages
+## Programming Language
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
-## Libraries / Frameworks
+## Web Technologies
 
-HTML • CSS • Javascript
+HTML • CSS • JavaScript
 
 ## Databases
 
@@ -51,11 +51,7 @@ SQL
 
 ## Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github"/>
-</p>
-
-Power BI • Tableau • Excel • Flutter • Streamlit • SolidEdge 
+Git • GitHub • VS Code • Power BI • Tableau • Excel • AWS • Streamlit • Flutter • SolidEdge
 
 ---
 
@@ -69,46 +65,50 @@ Real-time vision-based application enabling hands-free writing and drawing on a 
 
 ---
 
-## 🥜 Automated Quality Classification of Arecanuts
-
-CNN-based system for automated arecanut quality classification using image processing techniques.
-
----
-
 ## 🌎 TripPlannerWebsite
 
 Django-based travel platform with booking, transport and hotel modules.
 
 ---
 
+## 🥜 Automated Quality Classification of Arecanuts
+
+CNN-based system for automated arecanut quality classification using image processing techniques.
+
+---
+
 # 📈 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samarthechanur&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Samarthechanur&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthechanur&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthechanur&layout=compact&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Samarthechanur&theme=tokyonight"/>
+<img width="55%" src="https://streak-stats.demolab.com?user=Samarthechanur&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🧠 LeetCode Journey
+
+🚀 Solving problems daily and strengthening Data Structures & Algorithms.
+
+🎯 Goal: Consistency and continuous improvement.
+
+🔥 Daily LeetCode Streak
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Samarthechanur&theme=tokyonight&column=4"/>
-
+<img src="https://leetcard.jacoblin.cool/Samarthechanur?theme=dark&font=Baloo&ext=contest"/>
 </p>
 
 ---
@@ -159,11 +159,11 @@ Django-based travel platform with booking, transport and hotel modules.
 
 # 🌐 Connect With Me
 
-📧 Email: samarthechanur004@gmail.com
+📧 **Email:** samarthechanur004@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/samarth-h-308177384
+💼 **LinkedIn:** www.linkedin.com/in/samarth-h-308177384
 
-🐙 GitHub: https://github.com/Samarthechanur
+🐙 **GitHub:** https://github.com/Samarthechanur
 
 ---
 
@@ -171,6 +171,6 @@ Django-based travel platform with booking, transport and hotel modules.
 
 ### ⭐ Learn • Build • Grow ⭐
 
-<img src="https://komarev.com/ghpvc/?username=Samarthechanur&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Samarthechanur&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
