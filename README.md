@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Samarth H
 
-### 🚀 Python Developer | Full Stack Developer | AIML Engineer | AI Enthusiast
+### 🚀 Python Developer |  | Full Stack Developer | 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Python+Developer;Full+Stack+Developer;Frontend+%26+Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;Data+Analytics+Explorer;Solving+DSA+Problems+Daily" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Python+Developer;Python+Full+Stack+Trainee;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Explorer;Building+Practical+Projects" />
 
 </div>
 
@@ -12,27 +12,24 @@
 
 # 👨‍💻 About Me
 
-🎓 B.E. Computer Science & Engineering (Artificial Intelligence & Machine Learning) @ MITE
+🎓 B.E. Computer Science & Engineering (Artificial Intelligence & Machine Learning) @ Mangalore Institute of Technology & Engineering
 
 💻 Python Full Stack Trainee @ Dhee Coding Lab
 
-🏆 IEEE Innovation-2026 Project Competition – 1st Prize Winner
+🏆 1st Place Winner – IEEE MITE Innovation-2026 Project Competition
 
-🚀 Passionate about building scalable applications and intelligent systems
+🚀 Passionate about building practical applications and continuously improving technical skills
 
 🌐 Interested in:
 
 - Full Stack Development
 - Frontend Development
-- Backend Development
+- Database Systems
 - Data Analytics & Visualization
 - Artificial Intelligence & Machine Learning
-- Generative AI
-- Data Structures & Algorithms
-- System Design
+- Generative AI 
 
-
-🎯 Aspiring Software Engineer | Full Stack Developer | AI Engineer | Data Analytics |  
+🎯 Aspiring Software Engineer | Full Stack Developer | AI Engineer | Data Analytics | 
 
 ---
 
@@ -41,46 +38,24 @@
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java"/>
+<img src="https://skillicons.dev/icons?i=python,c"/>
 </p>
 
-## Frontend Development
+## Libraries / Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
-</p>
-
-## Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs"/>
-</p>
+HTML • CSS • Javascript
 
 ## Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-## AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-</p>
-
-OpenCV • MediaPipe • NumPy • Streamlit
-
-## Data Analytics & Visualization
-
-Power BI • Tableau • Excel
+SQL
 
 ## Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github"/>
 </p>
 
-Flutter • SolidEdge
+Power BI • Tableau • Excel • Flutter • Streamlit • SolidEdge 
 
 ---
 
@@ -88,21 +63,21 @@ Flutter • SolidEdge
 
 ## ✨ AI Gesture Studio
 
-Real-time air-writing system using Computer Vision, TensorFlow, OpenCV and MediaPipe with Text-to-Speech support.
+Real-time vision-based application enabling hands-free writing and drawing on a virtual canvas using hand gestures with integrated text-to-speech support.
 
-🏆 Winner of IEEE Innovation-2026 Project Competition.
+🏆 Winner of IEEE Innovation-2026 Project Competition
+
+---
+
+## 🥜 Automated Quality Classification of Arecanuts
+
+CNN-based system for automated arecanut quality classification using image processing techniques.
 
 ---
 
 ## 🌎 TripPlannerWebsite
 
 Django-based travel platform with booking, transport and hotel modules.
-
----
-
-## 🥜 Automated Quality Classification of Arecanuts
-
-CNN-based deep learning system for automated arecanut quality classification using image processing techniques.
 
 ---
 
@@ -138,66 +113,47 @@ CNN-based deep learning system for automated arecanut quality classification usi
 
 ---
 
-# 📚 Currently Focusing On
-
-✅ Data Structures & Algorithms
-
-✅ Full Stack Development
-
-✅ Backend Development 
-
-✅ Database Design & SQL
-
-✅ Data Analytics
-
-✅ Artificial Intelligence & Machine Learning
-
-✅ Generative AI
-
----
-
 # 💼 Experience
 
-### Python Full Stack Trainee
-📍 Dhee Coding Lab, Bangalore
+## Python Full Stack Trainee
+📍 Dhee Coding Lab, Bangalore | Feb 2026 – Present
 
-- Learning Full Stack Development with Python
-- Building practical projects
-- Exploring AI & ML concepts
-- Developing problem-solving skills
+- Engaged in project-based training.
+- Applying coding and AI/ML principles to practical scenarios.
+- Developing problem-solving and intelligent system design skills.
 
 ---
 
-### Machine Learning Intern
-📍 CodeCraft Technologies
+## Machine Learning Intern
+📍 CodeCraft Technologies | Aug 2026 – Oct 2026
 
-- Gained exposure to Machine Learning fundamentals
-- Worked on introductory ML workflows
-- Learned real-world applications of AI
+- Gained exposure to core machine learning concepts.
+- Acquired introductory experience with ML project workflows.
+- Learned real-world applications of AI.
 
 ---
 
 # 🏅 Certifications
 
-🏆 Introduction to Machine Learning – NPTEL
+🏆 Introduction to Machine Learning – NPTEL (2024)
 
-🏆 Introduction to AI-Powered Automation – UiPath
+🏆 Introduction to AI-Powered Automation – UiPath (2024)
 
-🏆 Introduction to Generative AI – Google Cloud
+🏆 Introduction to Generative AI – Google Cloud (2025)
 
-🏆 AWS Cloud Practitioner Essentials – AWS
+🏆 AWS Certified Cloud Practitioner Essentials – AWS (2025)
 
 ---
 
-# 🚀 DSA Journey
+# 🏆 Honors & Awards
 
-📚 Solving LeetCode Problems Daily
+🏅 1st Place – Innovation-2026 Annual Student Project Competition (IEEE MITE)
 
-🐍 Learning Data Structures & Algorithms using Python
+🏅 Participated in Bengaluru Tech Summit (BTS) 2024
 
-🎯 Goal: 300+ Problems
+🏅 Participated in Prompt War – MITE
 
-⚡ Consistency > Intensity
+🏅 Participated in SAPHACKFEST 2025 – MITE
 
 ---
 
@@ -213,7 +169,7 @@ CNN-based deep learning system for automated arecanut quality classification usi
 
 <div align="center">
 
-### ⭐ "Code • Learn • Build • Repeat" ⭐
+### ⭐ Learn • Build • Grow ⭐
 
 <img src="https://komarev.com/ghpvc/?username=Samarthechanur&label=Profile%20Views&color=0e75b6&style=flat" />
 
