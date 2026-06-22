@@ -99,20 +99,6 @@ CNN-based system for automated arecanut quality classification using image proce
 
 ---
 
-# 🧠 LeetCode Journey
-
-🚀 Solving problems daily and strengthening Data Structures & Algorithms.
-
-🎯 Goal: Consistency and continuous improvement.
-
-🔥 Daily LeetCode Streak
-
-<p align="center">
-<img src="(https://leetcode.com/u/Samarth_004/)"/>
-</p>
-
----
-
 # 💼 Experience
 
 ## Python Full Stack Trainee
