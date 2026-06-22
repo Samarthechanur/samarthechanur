@@ -108,7 +108,7 @@ CNN-based system for automated arecanut quality classification using image proce
 🔥 Daily LeetCode Streak
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Samarthechanur?theme=dark&font=Baloo&ext=contest"/>
+<img src="(https://leetcode.com/u/Samarth_004/)"/>
 </p>
 
 ---
