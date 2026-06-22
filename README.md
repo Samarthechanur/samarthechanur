@@ -1,60 +1,220 @@
-# 👋 Welcome to My GitHub Profile!
+<div align="center">
 
-Hi! I'm **Samarth H**, a CSE AIML student passionate about learning and building cool things with code.  
-I'm not an expert yet, but I enjoy exploring programming, AI, and cloud technologies while improving my skills step by step.
+# Hi 👋, I'm Samarth H
+
+### 🚀 Python Developer | Full Stack Developer | AIML Engineer | AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Python+Developer;Full+Stack+Developer;Frontend+%26+Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;Data+Analytics+Explorer;Solving+DSA+Problems+Daily" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack (Learning & Exploring)
+# 👨‍💻 About Me
 
-### 🖥️ Programming
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+🎓 B.E. Computer Science & Engineering (Artificial Intelligence & Machine Learning) @ MITE
+
+💻 Python Full Stack Trainee @ Dhee Coding Lab
+
+🏆 IEEE Innovation-2026 Project Competition – 1st Prize Winner
+
+🚀 Passionate about building scalable applications and intelligent systems
+
+🌐 Interested in:
+
+- Full Stack Development
+- Frontend Development
+- Backend Development
+- Data Analytics & Visualization
+- Artificial Intelligence & Machine Learning
+- Generative AI
+- Data Structures & Algorithms
+- System Design
+
+
+🎯 Aspiring Software Engineer | Full Stack Developer | AI Engineer | Data Analytics |  
+
+---
+
+# 🛠️ Tech Stack
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java"/>
+</p>
+
+## Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
+</p>
+
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs"/>
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+## AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
+
+OpenCV • MediaPipe • NumPy • Streamlit
+
+## Data Analytics & Visualization
+
+Power BI • Tableau • Excel
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+Flutter • SolidEdge
+
+---
+
+# 🚀 Featured Projects
+
+## ✨ AI Gesture Studio
+
+Real-time air-writing system using Computer Vision, TensorFlow, OpenCV and MediaPipe with Text-to-Speech support.
+
+🏆 Winner of IEEE Innovation-2026 Project Competition.
+
+---
+
+## 🌎 TripPlannerWebsite
+
+Django-based travel platform with booking, transport and hotel modules.
+
+---
+
+## 🥜 Automated Quality Classification of Arecanuts
+
+CNN-based deep learning system for automated arecanut quality classification using image processing techniques.
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Samarthechanur&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarthechanur&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 🌐 Web & Databases
-<p align="left">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Samarthechanur&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 🤖 AI & Machine Learning
-<p align="left">
-<img src="https://img.shields.io/badge/AI/ML-Basics-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Samarthechanur&theme=tokyonight&column=4"/>
+
 </p>
 
 ---
 
-### ☁️ Cloud (Learning Stage)
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-Basics-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud Computing-Learning-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+# 📚 Currently Focusing On
+
+✅ Data Structures & Algorithms
+
+✅ Full Stack Development
+
+✅ Backend Development 
+
+✅ Database Design & SQL
+
+✅ Data Analytics
+
+✅ Artificial Intelligence & Machine Learning
+
+✅ Generative AI
 
 ---
 
-## 📚 What I'm Learning Now
-- 🐍 Deepening my **Python** and libraries like NumPy, Pandas  
-- 🤖 Basics of **AI & Machine Learning**  
-- ⚡ Small projects with **React** & **MongoDB**  
-- ☁️ Introduction to **Cloud Computing**  
+# 💼 Experience
+
+### Python Full Stack Trainee
+📍 Dhee Coding Lab, Bangalore
+
+- Learning Full Stack Development with Python
+- Building practical projects
+- Exploring AI & ML concepts
+- Developing problem-solving skills
 
 ---
 
-## 📊 GitHub Stats (For Fun!)
-![Samarth H's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarthechanur&show_icons=true&theme=radical)
+### Machine Learning Intern
+📍 CodeCraft Technologies
+
+- Gained exposure to Machine Learning fundamentals
+- Worked on introductory ML workflows
+- Learned real-world applications of AI
 
 ---
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=samarthechanur&color=blue&style=flat)
+# 🏅 Certifications
+
+🏆 Introduction to Machine Learning – NPTEL
+
+🏆 Introduction to AI-Powered Automation – UiPath
+
+🏆 Introduction to Generative AI – Google Cloud
+
+🏆 AWS Cloud Practitioner Essentials – AWS
 
 ---
 
-⭐ **Thanks for visiting my profile! I’m learning every day—feel free to check out my projects!**
+# 🚀 DSA Journey
+
+📚 Solving LeetCode Problems Daily
+
+🐍 Learning Data Structures & Algorithms using Python
+
+🎯 Goal: 300+ Problems
+
+⚡ Consistency > Intensity
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: samarthechanur004@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/samarth-h-308177384
+
+🐙 GitHub: https://github.com/Samarthechanur
+
+---
+
+<div align="center">
+
+### ⭐ "Code • Learn • Build • Repeat" ⭐
+
+<img src="https://komarev.com/ghpvc/?username=Samarthechanur&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
