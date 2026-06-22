@@ -35,23 +35,85 @@
 
 # 🛠️ Tech Stack
 
-## Programming Language
+## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
-## Web Technologies
+---
 
-HTML • CSS • JAVASCRIPT
+## 🌐 Web Technologies
 
-## Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
-SQL
+---
 
-## Tools & Platforms
+## 🗄️ Databases
 
-Git • GitHub • VS Code • Power BI • Tableau • Excel • AWS • Streamlit • Flutter • SolidEdge
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## 📊 Data Analytics & Visualization
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+---
+
+## ☁️ Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+---
+
+## 🚀 Frameworks & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SolidEdge-005CAB?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚡ All Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,mysql,git,github,vscode,flutter,aws" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/SolidEdge-005CAB?style=for-the-badge"/>
+
+</p>
+
 
 ---
 
