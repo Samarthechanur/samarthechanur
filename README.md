@@ -43,7 +43,7 @@
 
 ## Web Technologies
 
-HTML • CSS • JavaScript
+HTML • CSS • JAVASCRIPT
 
 ## Databases
 
